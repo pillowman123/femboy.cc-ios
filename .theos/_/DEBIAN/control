@@ -1,0 +1,9 @@
+Package: com.aqua.hacks
+Name: Aqua Mod menu
+Depends: mobilesubstrate
+Description: IMGUI MOD MENU
+Maintainer: pillowguy._.
+Author: "@pillowguy._."
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 860
